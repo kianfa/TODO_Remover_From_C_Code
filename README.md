@@ -48,7 +48,7 @@ This comment will be removed.
 
 ## Important Behavior
 
-- Only comments containing `TODO(KF)` are removed.
+- Only comments containing `TODO` are removed.
 - Normal comments are kept.
 - The selected files are edited in place.
 - No new output files are created.
